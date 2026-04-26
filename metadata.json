@@ -1,0 +1,5 @@
+{
+  "name": "AI XUÂN VŨ",
+  "description": "An intelligent tool for teachers to extract, filter, and generate math exam papers from existing LaTeX source files using Gemini AI.",
+  "requestFramePermissions": []
+}
